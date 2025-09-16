@@ -5,3 +5,4 @@ langchain
 transformers
 huggingface-hub
 torch
+
