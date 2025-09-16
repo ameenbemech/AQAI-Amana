@@ -1,0 +1,7 @@
+streamlit
+reportlab
+python-docx
+langchain
+transformers
+huggingface-hub
+torch
